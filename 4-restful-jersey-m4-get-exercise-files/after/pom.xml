@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pluralsight</groupId>
-    <artifactId>exercise-services</artifactId>
+    <artifactId>4-restful-jersey-m4-get-exercise-files</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>exercise-services</name>
